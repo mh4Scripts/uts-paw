@@ -1,10 +1,82 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Lari Pagi Keliling Kampus",
+    "kategori": "Kardio",
+    "tanggal": "2026-10-19",
+    "durasi": 35,
+    "kalori": 320
+  },
+  {
+    "id": "2",
+    "judul": "Latihan Beban Tubuh Bagian Atas",
+    "kategori": "Kekuatan",
+    "tanggal": "2026-10-20",
+    "durasi": 45,
+    "kalori": 280
+  },
+  {
+    "id": "3",
+    "judul": "Yoga Pagi untuk Pemula",
+    "kategori": "Kelenturan",
+    "tanggal": "2026-10-21",
+    "durasi": 30,
+    "kalori": 120
+  },
+  {
+    "id": "4",
+    "judul": "Futsal Bersama Teman Kelas",
+    "kategori": "Permainan",
+    "tanggal": "2026-10-22",
+    "durasi": 60,
+    "kalori": 450
+  },
+  {
+    "id": "5",
+    "judul": "Bersepeda Santai Sore",
+    "kategori": "Kardio",
+    "tanggal": "2026-10-23",
+    "durasi": 40,
+    "kalori": 300
+  },
+  {
+    "id": "6",
+    "judul": "Push Up dan Sit Up Rutin",
+    "kategori": "Kekuatan",
+    "tanggal": "2026-10-24",
+    "durasi": 25,
+    "kalori": 180
+  },
+  {
+    "id": "7",
+    "judul": "Peregangan Seluruh Tubuh",
+    "kategori": "Kelenturan",
+    "tanggal": "2026-10-25",
+    "durasi": 20,
+    "kalori": 70
+  },
+  {
+    "id": "8",
+    "judul": "Bulu Tangkis Ganda",
+    "kategori": "Permainan",
+    "tanggal": "2026-10-26",
+    "durasi": 50,
+    "kalori": 350
+  },
+  {
+    "id": "9",
+    "judul": "Lompat Tali Interval",
+    "kategori": "Kardio",
+    "tanggal": "2026-10-27",
+    "durasi": 20,
+    "kalori": 250
+  },
+  {
+    "id": "10",
+    "judul": "Plank dan Squat Circuit",
+    "kategori": "Kekuatan",
+    "tanggal": "2026-10-28",
+    "durasi": 30,
+    "kalori": 220
   }
 ]
