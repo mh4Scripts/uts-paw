@@ -1,3 +1,7 @@
-export default function Beranda() {
-  return <h1>Beranda</h1>
+export default function Tambah() {
+  return (
+    <section>
+      <h1>Tambah Tugas</h1>
+    </section>
+  )
 }
