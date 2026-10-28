@@ -40,8 +40,8 @@ export default function Tambah() {
         <option>Permainan</option>
       </select>
 
-      <label htmlFor="taggal">Tanggal</label>
-      <input id="tanggal" name="tanggal" type="date" value={form.tenggat} onChange={ubah} />
+      <label htmlFor="tanggal">Tanggal</label>
+      <input id="tanggal" name="tanggal" type="date" value={form.tanggal} onChange={ubah} />
 
       <label htmlFor="durasi">Durasi</label>
       <select id="durasi" name="durasi" value={form.durasi} onChange={ubah}>
@@ -52,8 +52,9 @@ export default function Tambah() {
         <option value={60}>60 menit</option>
       </select>
 
-      <label htmlFor="kalori">Kalori</label>
+      <label htmlFor="kalori">Kalori Terbakar</label>
       <input id="kalori" name="kalori" type="number" value={form.kalori} onChange={ubah} />
+
       <button type="submit">Simpan</button>
     </form>
   )
